@@ -1,4 +1,4 @@
-# ConsoleAppWithArguments
+# Console app with arguments or env variables
 
 > Template for a C# console application that can be started with arguments or environment variables.
 > It can be provided with default values or with an error message if the value is not set as a parameter or as an environment variable.
