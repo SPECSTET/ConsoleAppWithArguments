@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppWithArguments": {
+      "commandName": "Project",
+      "commandLineArgs": "--searchpath \"c:\\test from launchSettings.json\""
+    }
+  }
+}
